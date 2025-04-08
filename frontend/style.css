@@ -84,7 +84,7 @@ header .navbar {
 
 .navbar .nav-logo .logo-text {
     color: var(--white-color);
-    font-size: var(--font-size-l);
+    font-size: var(--font-size-xl);
     font-weight: var(--font-weight-semibold);
 }
 
@@ -120,21 +120,21 @@ header .navbar {
 }
 
 .hero-section .hero-details .title {
-    font-size: var(--font-size-xl);
+    font-size: var(--font-size-xxl);
     color: var(--secondary-color);
 }
 
 .hero-section .hero-details .subtitle{
     margin: 8px 0;
     max-width: 70%;
-    font-size: var(--font-size-m);
+    font-size: var(--font-size-l);
     font-weight: var(--font-weight-semibold);
 }
 
 .hero-section .hero-details .description{
     max-width: 70%;
     margin: 15px 0 40px;
-    font-size: var(--font-size-s);
+    font-size: var(--font-size-m);
 
 }
 
